@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Demo coverage blob" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.9903, 39.7392]
+      }
+    }
+  ]
+}

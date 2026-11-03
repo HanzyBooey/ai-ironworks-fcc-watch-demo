@@ -1,0 +1,20 @@
+[
+  {
+    "call_sign": "DEMO1",
+    "service": "Cellular",
+    "market": "Sample CMA",
+    "status": "Active",
+    "lat": 39.7392,
+    "lon": -104.9903,
+    "note": "Synthetic demo row — not an FCC record"
+  },
+  {
+    "call_sign": "DEMO2",
+    "service": "Cellular",
+    "market": "Sample CMA",
+    "status": "Pending",
+    "lat": 33.4484,
+    "lon": -112.0740,
+    "note": "Synthetic demo row — not an FCC record"
+  }
+]
